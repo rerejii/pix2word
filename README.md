@@ -20,5 +20,5 @@
 
 右下から左上です
 
-![sample](C:\Users\hayak\work\git\pixWord\sample.png)
+![sample](https://github.com/rerejii/pixWord/blob/master/sample.png)
 
